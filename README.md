@@ -24,6 +24,7 @@ Pour plus de détails, consulter l’Annexe 2.pdf, située dans le dossier Annex
 Les configurations des VLANs, y compris les droits d’accès, les interactions entre départements, ainsi que les connexions aux imprimantes, sont disponibles dans l’Annexe 3.pdf, située dans le dossier Annexe. Cette annexe présente en détail la segmentation mise en place et les règles d’accès spécifiques à chaque service.
 
 3. Bande Passante Totale
+
 3.1. Analyse des Résultats par Équipement
 
 Les résultats détaillés concernant l’utilisation de la bande passante par équipement sont disponibles dans l’Annexe 4.pdf, située dans le dossier Annexe.
