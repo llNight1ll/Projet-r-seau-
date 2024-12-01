@@ -19,16 +19,14 @@ Coûts associés :
 Un plan d’adressage IP détaillé a été conçu pour garantir une segmentation optimale du réseau. Chaque VLAN est attribué à un département ou service spécifique, favorisant une gestion efficace de la bande passante et renforçant la sécurité inter-départements.
 Pour plus de détails, consulter l’Annexe 2.pdf, située dans le dossier Annexe.
 
-2.3. Avantages de la Segmentation VLAN
+2.3. Configuration et Accès des VLANs
 
-    Isolation des départements : Renforce la sécurité en segmentant le trafic réseau.
-    Optimisation des ressources : Permet une gestion plus efficace de la bande passante et des ressources disponibles.
-    Flexibilité et évolutivité : Facilite l’ajout de nouveaux services ou départements sans perturber l'infrastructure existante.
+Les configurations des VLANs, y compris les droits d’accès, les interactions entre départements, ainsi que les connexions aux imprimantes, sont disponibles dans l’Annexe 3.pdf, située dans le dossier Annexe. Cette annexe présente en détail la segmentation mise en place et les règles d’accès spécifiques à chaque service.
 
 3. Bande Passante Totale
 3.1. Analyse des Résultats par Équipement
 
-Les résultats détaillés concernant l’utilisation de la bande passante par équipement sont disponibles dans l’Annexe 3.pdf, située dans le dossier Annexe.
+Les résultats détaillés concernant l’utilisation de la bande passante par équipement sont disponibles dans l’Annexe 4.pdf, située dans le dossier Annexe.
 
 4. Annexes : Spécifications Techniques des Équipements
 
