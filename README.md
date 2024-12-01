@@ -8,7 +8,7 @@ Ce document présente une analyse technique détaillée pour la mise en place de
 
 2.1. Liste des Équipements Choisis : Voir annexe 1
 
-Total à payer: 122 869,40€
+Total à payer: 122 869,40€,
 Total d’économisé: 143 509,80€
 
 3. Bande Passante Totale
